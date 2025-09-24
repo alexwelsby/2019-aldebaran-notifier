@@ -2,7 +2,7 @@
 
 
 
-[An image of the running Aldebaran Notifier programme, with five options for keywords, images, and music.](aldebaran macros.JPG "An image of the running Aldebaran Notifier programme, with five options for keywords, images, and music.")
+[An image of the running Aldebaran Notifier programme, with five options for keywords, images, and music.](aldebaran_macros.JPG "An image of the running Aldebaran Notifier programme, with five options for keywords, images, and music.")
 
 
 

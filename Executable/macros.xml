@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OfficialArray>
+    <array_name>
+      <Item_in_array>
+        <Music>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Music\DefaultMusic.mp3</Music>
+        <Image>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Images\DefaultImage.jpg</Image>
+      </Item_in_array>
+      <Item_in_array>
+        <Name>JEREMIAH</Name>
+        <Music>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Music\The Hunter + The Storm.mp3</Music>
+        <Image>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Images\3001269999_17eb889b7a_b.jpg</Image>
+      </Item_in_array>
+      <Item_in_array>
+        <Name>ISAIAH</Name>
+        <Music>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Music\Lord El-Melloi II Case Files OST - deep in thought.mp3</Music>
+        <Image>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Images\201c4231613cf4db04bbdee8d5d466a1.png</Image>
+      </Item_in_array>
+      <Item_in_array>
+        <Name>Clara</Name>
+        <Music>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Music\Pathologic Soundtrack - Disease.mp3</Music>
+        <Image>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Images\tumblr_pahacio6yH1s2vsuio2_500.jpg</Image>
+      </Item_in_array>
+      <Item_in_array>
+        <Name>The Crystal Calls</Name>
+        <Music>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Music\Another World, Another Time.mp3</Music>
+        <Image>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Images\skeksis.JPG</Image>
+      </Item_in_array>
+      <Item_in_array>
+        <Name>Ikol-Loki</Name>
+        <Music>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Music\05 Childhood Memories, Shut Away.mp3</Music>
+        <Image>C:\Users\Alexia\Downloads\ADBNotifier NOXML\Macros\Images\15994375720_d69d0bc7b1_b.jpg</Image>
+      </Item_in_array>
+    </array_name>
+  </OfficialArray>
+</Config>

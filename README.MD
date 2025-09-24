@@ -14,11 +14,9 @@ You can see a video demonstration of this \[here](https://www.youtube.com/watch?
 
 
 
-All code can be found \[here](.\\EmailRadioButton).
+All code can be found \[here](.\\EmailRadioButton) .
 
 
 
 Gmail (and most other email hosts) has since removed IMAP capabilities for users for good reason, and so this program can no longer be used. It has, however, been uploaded here to Git as an example of a beginner C# project.
-
-
 

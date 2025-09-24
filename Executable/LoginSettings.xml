@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SuperUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <user>
+    <Email>alexwelsby13@gmail.com</Email>
+    <Password>@Rriseance1</Password>
+    <Server>imap.gmail.com</Server>
+  </user>
+</SuperUser>

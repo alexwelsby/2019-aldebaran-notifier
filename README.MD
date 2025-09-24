@@ -1,8 +1,8 @@
-\# Aldebaran Notifier
+# Aldebaran Notifier
 
 
 
-\[An image of the running Aldebaran Notifier programme, with five options for keywords, images, and music.](aldebaran macros.JPG "An image of the running Aldebaran Notifier programme, with five options for keywords, images, and music.")
+[An image of the running Aldebaran Notifier programme, with five options for keywords, images, and music.](aldebaran macros.JPG "An image of the running Aldebaran Notifier programme, with five options for keywords, images, and music.")
 
 
 
@@ -10,11 +10,11 @@ This now-defunct program utilized the IMAP protocol to hook into a user's email,
 
 
 
-You can see a video demonstration of this \[here](https://www.youtube.com/watch?v=4GosqcODUCY).
+You can see a video demonstration of this [here](https://www.youtube.com/watch?v=4GosqcODUCY).
 
 
 
-All code can be found \[here](.\\EmailRadioButton) .
+All code can be found [here](.\\EmailRadioButton) .
 
 
 

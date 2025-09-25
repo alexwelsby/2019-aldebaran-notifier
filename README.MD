@@ -14,7 +14,7 @@ You can see a video demonstration of this [here](https://www.youtube.com/watch?v
 
 
 
-All code can be found [here](./EmailRadioButton) .
+All code can be found under the [EmailRadioButton folder](./EmailRadioButton).
 
 
 
